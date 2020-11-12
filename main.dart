@@ -1,7 +1,6 @@
 import 'dart:io';
 import "dart:math";
 
-
 void main() {
   var list = ['📄','✂','🥌'];
   var round1 = getRandomElement(list);
